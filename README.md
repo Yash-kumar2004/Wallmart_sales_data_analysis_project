@@ -134,5 +134,3 @@ This project is licensed under the MIT License.
 - **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
 
 ---
-
-This README file should give users a complete overview of the project, from setup and analysis to documentation and future improvements. Let me know if you’d like to refine any sections further!
